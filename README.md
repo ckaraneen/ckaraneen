@@ -1,1 +1,1 @@
-[![](https://github.com/ckarageorgkaneen/rainbowbunchie/blob/master/rainbowbunchie.gif?raw=true)](https://raw.githubusercontent.com/ckarageorgkaneen/cv/master/cv.pdf "I love learning!")
+<p align="center"><a href="https://raw.githubusercontent.com/ckarageorgkaneen/cv/master/cv.pdf"><img width=300 src="https://github.com/ckarageorgkaneen/rainbowbunchie/blob/master/rainbowbunchie.gif?raw=true"  title="I love learning!"/></p>
