@@ -1,1 +1,1 @@
-![](./rainbowbunchie.gif)
+<img src="./rainbowbunchie_flipped.gif" height="250" title="I love learning!"> <a href="https://micrograduate-book.github.io"><img src="https://raw.githubusercontent.com/ckaraneen/micrograduate/refs/heads/main/book_logo.png" height="250" title="microgra∇uate"></a> <img src="./rainbowbunchie.gif" height="250" title="I love learning!">
